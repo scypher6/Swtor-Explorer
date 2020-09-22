@@ -8,6 +8,7 @@ This app allows you to explore the wonderful universe of Star Wars the Old Repub
 - Watch videos featuring characters of the SWTOR universe
 
 ## Technologies
+- HTML/CSS
 - JavaScript
 - Ruby-on-Rails
 - Bootstrap
