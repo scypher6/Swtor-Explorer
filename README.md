@@ -7,3 +7,7 @@ This app allows you to explore the wonderful universe of Star Wars the Old Repub
 - Read descriptions of the various factions of SWTOR
 - Watch videos featuring characters of the SWTOR universe
 
+## Technologies
+- JavaScript
+- Ruby-on-Rails
+
