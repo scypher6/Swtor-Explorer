@@ -1,4 +1,4 @@
-# Swtor-Explorer
+# Swtor Explorer
 Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)!
 
 ## Features
