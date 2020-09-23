@@ -13,3 +13,5 @@ Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)
 - Ruby-on-Rails
 - Bootstrap
 
+## Getting Started
+
