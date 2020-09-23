@@ -8,7 +8,8 @@ Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)
 - Watch videos featuring characters of the SWTOR universe
 
 ## Technologies
-- HTML/CSS
+- HTML
+- SASS/CSS
 - JavaScript
 - Ruby-on-Rails
 - Bootstrap
