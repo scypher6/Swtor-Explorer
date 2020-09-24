@@ -15,4 +15,6 @@ Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)
 - Bootstrap
 
 ## Getting Started
-
+Clone the repo
+Run bundle install
+Run server: rails s
