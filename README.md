@@ -16,6 +16,6 @@ Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)
 
 ## Getting Started
 - Clone the repo
-- Run bundle install
+- Run *bundle install*
 - Run JS server: *npm start*
 - Run Rails server: *rails s*
