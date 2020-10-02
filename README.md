@@ -7,7 +7,7 @@ Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)
 - Explore the major heroes of the Republic
 - Explore the major villains of the Empire
 - Learn about the various factions of SWTOR
-- Watch short videos on history of the SWTOR universe
+- Watch short cinematic videos on history of the SWTOR universe
 
 ## Technologies
 - HTML
