@@ -12,7 +12,7 @@ Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)
 ## Technologies
 - HTML
 - SASS/CSS
-- JavaScript
+- JavaScript (ES6)
 - Ruby-on-Rails
 - Bootstrap
 
