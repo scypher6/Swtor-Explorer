@@ -1,4 +1,4 @@
-![SWTOR](https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/starwars-oldrepublic-banner-700x324.jpg)
+![SWTOR](https://cdn.blizzardwatch.com/wp-content/uploads/2018/07/ah-swtor-7-30-18.jpg)
 
 # Swtor Explorer
 Explore the lore of the wonderful universe of Star Wars the Old Republic (SWTOR)!
